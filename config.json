@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configdalidate",
+        "uuid": 9089931,
+        "checksum": "9dz0s"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
